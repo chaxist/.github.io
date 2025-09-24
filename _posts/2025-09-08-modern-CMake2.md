@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 现代CMake2-基础知识
 date: 2025-09-08 18:46:55
 modify: 2025-09-08 18:46:55

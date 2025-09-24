@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 现代CMake5-组织你的项目
 date: 2025-09-11 19:16:35
 modify: 2025-09-11 19:16:35

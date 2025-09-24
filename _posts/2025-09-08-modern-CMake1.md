@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 现代CMake1
 date: 2025-09-08 18:39:02
 modify: 2025-09-08 18:39:02

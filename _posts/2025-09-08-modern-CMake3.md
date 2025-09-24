@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 现代CMake3-变量与缓存
 date: 2025-09-08 19:40:18
 modify: 2025-09-08 19:40:18

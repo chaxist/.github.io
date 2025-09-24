@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 现代CMake4-用CMake进行编程
 date: 2025-09-09 19:21:53
 modify: 2025-09-09 19:21:53
